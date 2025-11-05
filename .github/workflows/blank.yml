@@ -24,3 +24,6 @@ jobs:
 
       - name: Run Vitest
         run: npx vitest run
+
+      - name: Run ESLint
+        run: npm run 
